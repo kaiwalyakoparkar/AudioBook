@@ -12,14 +12,22 @@ pip insall gtts
 
 # Pros
 
-Easy to use
-High accuracy in pronounciation
-All Languages
+Easy to use.
+
+High accuracy in pronounciation.
+
+All Languages.
+
 Suitable Time gap between words.
+
 
 # Cons
 
-It cannot read pdf(Portable Device Format)
-It only reads txt File
-Audiobook is generated in wav format
+It cannot read pdf(Portable Device Format).
+
+It only reads txt File.
+
+Audiobook is generated in wav format.
+
+
 
